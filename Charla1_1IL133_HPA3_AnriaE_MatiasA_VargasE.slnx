@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Escenario1/Escenario1.csproj" />
+  <Project Path="CharlaEscenario2/CharlaEscenario2/CharlaEscenario2.csproj" Id="cadb3102-49f6-43e5-967e-43c105e98e4e" />
+  <Project Path="CharlaHPA/Escenario3/Escenario3.csproj" Id="8a347afe-e4ce-4450-915f-998c724c95de" />
+  <Project Path="Escenario1/Escenario1.csproj" Id="db5eaea5-e53c-4514-929e-cfb8b86c73bd" />
 </Solution>
